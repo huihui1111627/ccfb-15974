@@ -16,3 +16,7 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# 生成的结果文件(较大, 由 acceptance.py 产生)
+results/*.json
+results/*.log
